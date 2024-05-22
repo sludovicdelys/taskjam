@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/taskjam/static/css/main.7504d2d2.css",
+    "main.js": "/taskjam/static/js/main.4712fff8.js",
+    "index.html": "/taskjam/index.html",
+    "main.7504d2d2.css.map": "/taskjam/static/css/main.7504d2d2.css.map",
+    "main.4712fff8.js.map": "/taskjam/static/js/main.4712fff8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7504d2d2.css",
+    "static/js/main.4712fff8.js"
+  ]
+}
