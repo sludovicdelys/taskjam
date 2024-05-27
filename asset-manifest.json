@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/taskjam/static/css/main.2164ae27.css",
-    "main.js": "/taskjam/static/js/main.4712fff8.js",
+    "main.js": "/taskjam/static/js/main.faf71b67.js",
     "index.html": "/taskjam/index.html",
     "main.2164ae27.css.map": "/taskjam/static/css/main.2164ae27.css.map",
-    "main.4712fff8.js.map": "/taskjam/static/js/main.4712fff8.js.map"
+    "main.faf71b67.js.map": "/taskjam/static/js/main.faf71b67.js.map"
   },
   "entrypoints": [
     "static/css/main.2164ae27.css",
-    "static/js/main.4712fff8.js"
+    "static/js/main.faf71b67.js"
   ]
 }
