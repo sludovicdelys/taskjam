@@ -141,3 +141,19 @@
         flex-direction: column;
     }
 }
+
+@media (max-width: 400px) {
+    .input {
+        width: 90%;
+    }
+    
+    .todos {
+        width: 90%;
+        margin-bottom : 10px;
+    }
+
+    .container {
+        width: 90%;
+        flex-direction: column;
+    }
+}
